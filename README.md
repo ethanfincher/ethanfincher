@@ -3,6 +3,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md)
+[![GitHub Ethan](https://img.shields.io/github/followers/ethanfincher?label=follow&style=social)](https://github.com/ethanfincher)
 ```javascript
 const ethan = {
   basics : { 
@@ -11,7 +12,7 @@ const ethan = {
     favoriteLanguage : 'javascript'
     jobTitle : 'software engineer'
     education : 'General Assembly Software Engineering Program' 
-    }
+  }
   languagesKnown : [HTML, CSS, JavaScript, Python, Java]
   tools : [React, Node]
   lovesToCode = true
