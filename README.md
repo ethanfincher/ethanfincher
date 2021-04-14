@@ -1,10 +1,23 @@
-### Hi there 👋
 <h1 align='center'>Welcome to Ethan's Github Page!</h1>
 
-[![ethanfincher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md)
 
+const ethan = {
+  basics : { 
+    firstName : 'ethan'
+    lastName : 'fincher'
+    favoriteLanguage : 'javascript'
+    jobTitle : 'software engineer'
+    education : 'General Assembly Software Engineering Program' 
+    }
+  languagesKnown : [HTML, CSS, JavaScript, Python, Java]
+  tools : [React, Node]
+  lovesToCode = true
+  currentWork = 'finishing learning basic coding skills at General Assembly Software Engineering!'
+  
+}
 <!--
 **ethanfincher/ethanfincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
