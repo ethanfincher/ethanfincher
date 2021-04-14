@@ -3,7 +3,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md)
-
+<script>
 const ethan = {
   basics : { 
     firstName : 'ethan'
@@ -16,8 +16,8 @@ const ethan = {
   tools : [React, Node]
   lovesToCode = true
   currentWork = 'finishing learning basic coding skills at General Assembly Software Engineering!'
-  
 }
+</script>
 <!--
 **ethanfincher/ethanfincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
