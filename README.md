@@ -1,4 +1,4 @@
-<h1 align='center'>Welcome to Ethan's Github Page!<img src='https://media1.giphy.com/media/OkJat1YNdoD3W/giphy.gif' width = '50'></h1>
+<h1 align='center'>Welcome to Ethan's Github Page!<img src='https://media1.giphy.com/media/OkJat1YNdoD3W/giphy.gif' width = '100'></h1>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
