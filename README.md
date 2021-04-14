@@ -7,6 +7,7 @@
 [![Linkedin: ethan](https://img.shields.io/badge/-ethanfincher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethan-fincher/)](https://www.linkedin.com/in/ethan-fincher-3959621a5/)
 <br/>
 <h3>About Me</h3>
+
 ```javascript
 const ethan = {
   basics : { 
