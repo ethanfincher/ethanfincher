@@ -1,6 +1,7 @@
 <h1 align='center'>Welcome to Ethan's Github Page!<img src='https://media4.giphy.com/media/ToMjGpRZ4gF6YuAT4li/200.webp?cid=ecf05e47hetiaqu28gg6uk4nc2s16odbn8vd5u432dgj4x2e&rid=200.webp&ct=g' width = '75'></h1>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
+<img align='right' src = 'https://media3.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47o9tg6r0vxd0bjzvqyizzd6co9sqsvvb3tn7wp61m&rid=giphy.gif&ct=g'>
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md)
 [![GitHub Ethan](https://img.shields.io/github/followers/ethanfincher?label=follow&style=social)](https://github.com/ethanfincher)
