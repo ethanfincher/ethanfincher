@@ -1,4 +1,4 @@
-<h1 align='center'>Welcome to Ethan's Github Page!<img src='https://media1.giphy.com/media/OkJat1YNdoD3W/giphy.gif' width = '75'></h1>
+<h1 align='center'>Welcome to Ethan's Github Page!<img src='https://media4.giphy.com/media/ToMjGpRZ4gF6YuAT4li/200.webp?cid=ecf05e47hetiaqu28gg6uk4nc2s16odbn8vd5u432dgj4x2e&rid=200.webp&ct=g' width = '75'></h1>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
