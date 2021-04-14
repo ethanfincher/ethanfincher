@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 test-align='center'>Welcome to Ethan's Github Page!</h1>
+<h1 align='center'>Welcome to Ethan's Github Page!</h1>
 
 [![ethanfincher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
