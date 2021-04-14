@@ -1,6 +1,6 @@
 <h1 align='center'>Welcome to Ethan's Github Page!</h1>
 <br/>
-<img align='center' src='https://media1.giphy.com/media/OkJat1YNdoD3W/giphy.gif' width = '250'>
+<img align='right' src='https://media1.giphy.com/media/OkJat1YNdoD3W/giphy.gif' width = '250'>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanfincher)](https://github.com/ethanfincher/github-readme-stats)
 <br/>
